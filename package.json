@@ -1,0 +1,26 @@
+{
+  "name": "vuepress-theme-hope-template",
+  "version": "2.0.0",
+  "description": "A project of vuepress-theme-hope",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "vuepress-vite build src",
+    "clean": "vuepress-vite dev src --clean-cache -port 9000",
+    "dev": "vuepress-vite dev src --port 9000",
+    "update": "npx vp-update"
+  },
+  "devDependencies": {
+    "@vue/repl": "^3.4.0",
+    "@vuepress/bundler-vite": "2.0.0-rc.7",
+    "echarts": "^5.4.3",
+    "flowchart.ts": "^3.0.0",
+    "mathjax-full": "^3.2.2",
+    "mermaid": "^10.8.0",
+    "reveal.js": "^5.0.4",
+    "sandpack-vue3": "^3.1.11",
+    "vue": "^3.4.15",
+    "vuepress": "2.0.0-rc.7",
+    "vuepress-theme-hope": "2.0.0-rc.23"
+  }
+}
