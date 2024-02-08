@@ -1,3 +1,11 @@
+---
+title: 
+category: Windows
+tags:
+  - windows
+date: 2024-02-07
+---
+
 ### windows 管理域
 
 管理windows自带的AD域,需要启动一台windows sever进行,如果自动加域没有生效,那么需要手动去加域

@@ -1,10 +1,11 @@
 ---
 title: nginx返回客户端IP
-categories: Dev
+categories: Nginx
 date: 2023-06-14 04:59:40
-tags: 
-    - Nginx
-    - Public IP
+tags:
+  - Nginx
+  - Public
+  - IP
 ---
 
 

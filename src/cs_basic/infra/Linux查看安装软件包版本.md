@@ -1,6 +1,6 @@
 ---
 title: Linux查看安装软件包版本
-categories: Infra
+categories: Linux
 tags:
   - Linux
 date: 2023-10-22 00:51:52

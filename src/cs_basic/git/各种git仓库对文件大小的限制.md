@@ -1,9 +1,9 @@
 ---
 title: 各种git仓库对文件大小的限制
 date: 2023-03-14 02:59:52
-categories: CICD
-tags: 
-    - GIT
+categories: GIT
+tags:
+  - GIT
 ---
 
 Git 是为处理源代码而设计的，而不是用于存储大文件或二进制数据。

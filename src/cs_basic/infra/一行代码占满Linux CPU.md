@@ -1,6 +1,6 @@
 ---
 title: 一行代码占满Linux CPU
-categories: Infra
+categories: Linux
 tags:
   - Linux
 date: 2020-10-12 01:58:59

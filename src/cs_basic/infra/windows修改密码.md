@@ -1,9 +1,9 @@
 ---
 title: windows修改密码
 date: 2021-10-12 01:58:59
-categories: Infra
-tags: 
-    - Windows
+categories: windows
+tags:
+  - Windows
 ---
 
 

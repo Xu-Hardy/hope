@@ -1,9 +1,9 @@
 ---
 title: Github设置仓库某个分支私有
 date: 2023-10-16 01:59:52
-categories: CICD
-tags: 
-    - GIT
+categories: GIT
+tags:
+  - GIT
 ---
 
 GitHub并不提供为单个分支设置私有的功能。在GitHub上，仓库的私有性是应用于整个仓库的，而不是特定的分支。这意味着你不能有一个公开的仓库，并使其中的一个分支保持私有。
