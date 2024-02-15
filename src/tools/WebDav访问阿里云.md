@@ -21,6 +21,10 @@ pip install aliyundrive-webdav
 aliyundrive-webdav -P 8081 -U admin -W admin
 ```
 
+Mac上有自带的挂载工具:
+
+![image-20240215154624380](https://raw.githubusercontent.com/Xu-Hardy/image-host/master/image-20240215154624380.png)
+
 这个是挂载成功的结果:
 
 ![image-20240215151618353](https://raw.githubusercontent.com/Xu-Hardy/image-host/master/image-20240215151618353.png)
